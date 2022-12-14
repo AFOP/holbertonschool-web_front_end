@@ -197,13 +197,6 @@
     width: calc((100% / 2) - 2rem);
   }
   
-  /* Navbar
-      ============================= */
-  
-  .navbar-menu {
-    float: right;
-  }
-  
   .nav {
     margin: 0;
     padding: 0;
