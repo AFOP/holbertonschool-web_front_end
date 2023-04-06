@@ -1,0 +1,7 @@
+/* lopp col */
+$percentage: 100%;
+@for $i from 1 through 4 {
+    col-#{$i} {
+        width: $percentage / $i;
+    }
+  }
