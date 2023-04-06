@@ -1,6 +1,8 @@
 /* Color class .red */
+$text-color: #3D3D3D;
+$text-red: #FF0000;
 body {
-    color: #3D3D3D; 
+    color: $text-color; 
     body .red {
-      color: #FF0000; }
+      color: $text-red; }
     }
