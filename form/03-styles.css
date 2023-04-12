@@ -685,6 +685,6 @@
     cursor: pointer;
     display: block;
     white-space: nowrap;
-    size: 1.4rem;
+    font-size: 1.4rem;
     padding: 0 0 .5rem;
   }
