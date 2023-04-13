@@ -35,4 +35,5 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 ## Starter files
 - [00-index.html](https://github.com/AFOP/holbertonschool-web_front_end/blob/main/accessibility/00-index.html)
 - [00-styles.css](https://github.com/AFOP/holbertonschool-web_front_end/blob/main/accessibility/00-styles.css)
+- [00-article.html](https://github.com/AFOP/holbertonschool-web_front_end/blob/main/accessibility/00-article.html)
 - [Images archive](https://intranet-projects-files.s3.amazonaws.com/holbertonschool-webstack/601/images.zip)
